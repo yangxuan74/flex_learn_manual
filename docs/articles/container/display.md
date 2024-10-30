@@ -31,6 +31,7 @@
   我们添加高度以及内间距，同时增加边框和背景色，
 */
 .demo {
+  display: flex;
   height: 200px;
   padding: 10px;
   background-color: #d8d8d8;
